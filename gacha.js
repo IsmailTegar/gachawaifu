@@ -16,7 +16,7 @@ if (kategori === "pink") {
   zonk = { name: "Wkwkwkw. masnya loh cik 👹👻", img: "pink/ironi.jpg" };
 } else if (kategori === "hitam") {
     waifus = [
-        { name: "Azusa Nyan~~ 😻", img: "hitam/azusa.jpg" },
+        { name: "Azusa Nyan~~ 😻", img: "hitam/Azusa.jpg" },
         { name: "Megumin, Explossionnnn!!! 🎇🤯", img: "hitam/megumin.jpg" },
         { name: "Kaguya-sama, Kalau suka ngomong lah 😑", img: "hitam/kaguya.jpg" },
         { name: "Kurumi, jauh jauh Karbit 😡", img: "hitam/kurumi.jpg" },
